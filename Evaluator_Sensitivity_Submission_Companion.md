@@ -2,7 +2,6 @@
 
 **Evaluator Sensitivity of Client Contribution Scoring in Federated Wearable Learning**
 
-Status: complete 10-page IEEE two-column draft, including references. This is an author-review draft, not a submission approval. No further experiments were run and no validated study files were modified during drafting.
 
 ## Abstract
 
