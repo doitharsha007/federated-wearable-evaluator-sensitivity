@@ -1,0 +1,19 @@
+{
+  "Abstract.txt": "a476b21512822d2d9e9a45d36ba6e4b40055b5cb00da771ab8bef16864075dc9",
+  "IEEEtran.cls": "da751920a317ed318b7b5cd7fa585a6cc7d28502d457856382e9be24b10a3bd7",
+  "Submission_Companion.md": "4a30687bb7cf1ddc7d62ef833aec386c46d93ebb27901b3a5c1dcbf12994d419",
+  "evidence/analysis_specification.json": "b3f5ceea9251de8b39a642b3ec7d30f3b76c8cf9fa05613985dbecf036a7bbb5",
+  "evidence/analysis_verification.json": "6f36f473d6823511f9203e158b873f7dbca2cbca922f54238762f8495320f1bc",
+  "evidence/cohort_counts.csv": "9c5d4ad61dee1e6313c22b3e1bcec115f19b7456b533b5ec1426fc0f9b4f87ba",
+  "evidence/cross_seed_audit.json": "2a401705e1e1c0a29a3b05788d44d984f6b4d8bafe8277dc6ea65014cdc575a3",
+  "evidence/primary_per_seed.csv": "cd891c711f26367b282d9232a56a6b4c1078c3cc6967abdb25b5cab9a78f50fb",
+  "evidence/primary_summary.csv": "fe4455a7e9b859a379b84cc3adfb310fb3319797b36a1272ef70aa9b0abffa02",
+  "evidence/score_diagnostics_summary.csv": "1401e96a93d8230609eb50cedd2542fdc6084017d300cbc234b619974f8b9af4",
+  "evidence/scoring_reference_disagreement_per_seed.csv": "c4e424dadafc03d20c8a6982ceaf2a7fbfbeaf9f19f0939fad45d099b6a66b7c",
+  "figures/primary_seed_intervals.pdf": "44c1f2270702af7aff83f8973d04cbce176a25e9394936b01a075608e87db3c9",
+  "figures/rank_reversal_descriptive.pdf": "328bbbc13a62b6a01dcef65a09f0387a678f6b1ecfd50c690ce5840fcd3a7bb2",
+  "figures/scoring_reference_disagreement.pdf": "e5e0c56ca9e65f847197d3c4e15abc6d42974a57b636c36e95eecf2f03207a72",
+  "main.pdf": "9212191df28e1f7b83b60b7f521f82d33d87980cc7a9d16e4ba2a2456bbc7c12",
+  "main.tex": "0f29eeb349d506aa57c0396f9f68cbccd66c9e74d14bd3ef6333ca3a1af8bdf8",
+  "verification/draft_qa.json": "46def376f5bb77a93ee0a5441427d9a6b798d11061931978d11302fe66640e72"
+}

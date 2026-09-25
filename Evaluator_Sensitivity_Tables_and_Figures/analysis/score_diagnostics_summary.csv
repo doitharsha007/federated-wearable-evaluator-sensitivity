@@ -1,0 +1,10 @@
+evaluator,method,n_seeds,mean_negative_fraction,mean_uniform_fallback_fraction
+sample_frequency,shapley,10,0.075,0.0
+sample_frequency,leave_one_out,10,0.375,0.0
+sample_frequency,data_size,10,0.0,0.0
+equal_class,shapley,10,0.06875,0.0
+equal_class,leave_one_out,10,0.38125,0.0
+equal_class,data_size,10,0.0,0.0
+equal_subject,shapley,10,0.09375,0.0
+equal_subject,leave_one_out,10,0.36875,0.0
+equal_subject,data_size,10,0.0,0.0

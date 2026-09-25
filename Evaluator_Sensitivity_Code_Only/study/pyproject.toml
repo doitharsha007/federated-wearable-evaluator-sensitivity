@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "har-evaluator-sensitivity"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = ["torch", "numpy", "scipy", "PyYAML", "pytest"]
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]

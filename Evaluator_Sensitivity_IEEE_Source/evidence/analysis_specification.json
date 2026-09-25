@@ -1,0 +1,21 @@
+{
+  "independent_unit": "seed",
+  "n_seeds": 10,
+  "cohorts": "four fixed repeated blocks averaged within seed",
+  "primary": "two Shapley allocation TV evaluator contrasts",
+  "bootstrap_draws": 50000,
+  "bootstrap_seed": 91001,
+  "interval": "percentile",
+  "interval_level": 0.975,
+  "quantiles": [
+    0.0125,
+    0.9875
+  ],
+  "mean_and_median_intervals": true,
+  "p_values_computed": false,
+  "other_metrics": "exploratory descriptive only",
+  "source_script_sha256": "6b61424b2ea53ef9fea08be3e41f65ef8c4fe3d7e3698a194e7201d02e72201c",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "cross_seed_audit_sha256": "2a401705e1e1c0a29a3b05788d44d984f6b4d8bafe8277dc6ea65014cdc575a3"
+}

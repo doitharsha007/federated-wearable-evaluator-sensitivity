@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "seed_endpoints_reconstructed_from_shares": 20,
+  "primary_summary_fields_checked": 12,
+  "bootstrap_indices_regenerated": 500000,
+  "all_analysis_input_hashes_verified": true,
+  "independent_unit": "seed",
+  "n_seeds": 10
+}

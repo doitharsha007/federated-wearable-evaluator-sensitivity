@@ -1,0 +1,51 @@
+{
+  "coalitions": 640,
+  "common_hashes": {
+    "environment.json": "f98c1380595005e293946f917f55a3e2ad32422445590702d23370d653ee5251",
+    "normalization.npz": "646a759dd67fa4b9c4a401fed40db41eb260c6612c5f9f5bf404468296d2e27f",
+    "split_manifest.json": "9c884961a9e2361580d1ef0c25680149c9450e9f23f3070aeaf81876096f858f",
+    "validation_index.csv": "e90039c779561225826a19a534cfcddc594093316534ed6c2c84b43fc8c6a13d"
+  },
+  "efficiency_games": 120,
+  "elapsed_seconds": 292.69698190689087,
+  "existing_pilot_preserved": true,
+  "hashes": 1020,
+  "max_efficiency_residual": 1.3877787807814457e-17,
+  "paths": {
+    "4101": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/pilot_4101_v2",
+    "4102": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4102_study_v1_1",
+    "4103": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4103_study_v1_1",
+    "4104": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4104_study_v1_1",
+    "4105": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4105_study_v1_1",
+    "4106": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4106_study_v1_1",
+    "4107": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4107_study_v1_1",
+    "4108": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4108_study_v1_1",
+    "4109": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4109_study_v1_1",
+    "4110": "/workspace/scratch/207238b1e26d/har-evaluator-sensitivity-v2/results/seed_4110_study_v1_1"
+  },
+  "rankings": 240,
+  "scores": 1440,
+  "seeds": [
+    4101,
+    4102,
+    4103,
+    4104,
+    4105,
+    4106,
+    4107,
+    4108,
+    4109,
+    4110
+  ],
+  "source": {
+    "commit": "84ed97a818c82c4472a540f00e3be1c60e265e8b",
+    "only_authorized_pilot_seed": 4101,
+    "source_archive_sha256": "21dc02c1b0491c9ae7e763d188107f392da85266e4a59c97a4958a172d043a0a",
+    "tag": "study-v1.1",
+    "unchanged_experiment_files": true
+  },
+  "status": "PASS",
+  "test_metrics": 150,
+  "unique_initializations": 10,
+  "utilities": 1920
+}

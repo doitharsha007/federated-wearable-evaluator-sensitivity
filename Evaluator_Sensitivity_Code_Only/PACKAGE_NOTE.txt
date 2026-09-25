@@ -1,0 +1,2 @@
+Code-only convenience copy of study-v1.1, unchanged. Excludes datasets, raw runs and saved models. Not the full evidence package.
+Source commit: 84ed97a818c82c4472a540f00e3be1c60e265e8b

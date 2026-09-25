@@ -1,0 +1,14 @@
+{
+  "pages": 10,
+  "figures": 3,
+  "tables": 7,
+  "references": 11,
+  "visual_review": "All ten pages inspected; no clipping or overlaps",
+  "latex_warnings": false,
+  "protected_files_checked": 1066,
+  "protected_file_changes": [],
+  "primary_displayed_values_match_audited_csv": true,
+  "figures_identical_to_audited_outputs": true,
+  "experiments_run_during_drafting": 0,
+  "source_repository_modified": false
+}

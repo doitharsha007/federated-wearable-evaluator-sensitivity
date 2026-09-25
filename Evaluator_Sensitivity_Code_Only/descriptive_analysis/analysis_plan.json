@@ -1,0 +1,33 @@
+{
+  "independent_unit": "seed",
+  "seeds": [
+    4101,
+    4102,
+    4103,
+    4104,
+    4105,
+    4106,
+    4107,
+    4108,
+    4109,
+    4110
+  ],
+  "primary_contrasts": [
+    "equal_class_vs_sample_frequency",
+    "equal_subject_vs_sample_frequency"
+  ],
+  "endpoint": "exact-Shapley positive-part allocation TV, averaged over four fixed cohorts within seed",
+  "bootstrap": "percentile; 50000 common seed-index resamples of size 10",
+  "rng_seed": 91001,
+  "primary_mean_interval_level": 0.975,
+  "primary_family": "two mean contrasts; approximate Bonferroni 95% family coverage target",
+  "median_intervals": "descriptive 97.5%; not an additional confirmatory family",
+  "secondary_metrics": "exploratory descriptive; no hypothesis tests",
+  "prohibited_claims": [
+    "significance",
+    "superiority",
+    "fairness",
+    "incentives"
+  ],
+  "analysis_sha256": "6b61424b2ea53ef9fea08be3e41f65ef8c4fe3d7e3698a194e7201d02e72201c"
+}

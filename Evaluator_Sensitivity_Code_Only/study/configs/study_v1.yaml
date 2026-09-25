@@ -1,0 +1,16 @@
+seeds: [4101,4102,4103,4104,4105,4106,4107,4108,4109,4110]
+validation_subjects: [1,7,15,21,26]
+cohorts:
+  A: [3,5,6,8]
+  B: [11,14,16,17]
+  C: [19,22,23,25]
+  D: [27,28,29,30]
+warmup_rounds: 20
+local_steps: 5
+batch_size: 64
+learning_rate: 0.03
+momentum: 0
+weight_decay: 0
+classes: 6
+threads: 1
+tie_tolerance: 0.00000001
